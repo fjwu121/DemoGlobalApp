@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>f5cdb49547552110191f7ac8f36d4388</applets>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles>itil</required_roles>
+        <row_count/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>fwu</sys_created_by>
+        <sys_created_on>2023-02-27 17:06:11</sys_created_on>
+        <sys_id>86cdb49547552110191f7ac8f36d43b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident</sys_name>
+        <sys_package display_value="DEMO-Global" source="df3db05547552110191f7ac8f36d43a3">df3db05547552110191f7ac8f36d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DEMO-Global">df3db05547552110191f7ac8f36d43a3</sys_scope>
+        <sys_update_name>sys_sg_icon_section_86cdb49547552110191f7ac8f36d43b6</sys_update_name>
+        <sys_updated_by>fwu</sys_updated_by>
+        <sys_updated_on>2023-02-27 17:06:11</sys_updated_on>
+        <table/>
+        <title>Incident</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_icon_section>
+</record_update>

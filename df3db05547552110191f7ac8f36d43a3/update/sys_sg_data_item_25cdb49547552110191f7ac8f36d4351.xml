@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>DEMO-Global Incident</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>fwu</sys_created_by>
+        <sys_created_on>2023-02-27 17:06:10</sys_created_on>
+        <sys_id>25cdb49547552110191f7ac8f36d4351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEMO-Global Incident</sys_name>
+        <sys_package display_value="DEMO-Global" source="df3db05547552110191f7ac8f36d43a3">df3db05547552110191f7ac8f36d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DEMO-Global">df3db05547552110191f7ac8f36d43a3</sys_scope>
+        <sys_update_name>sys_sg_data_item_25cdb49547552110191f7ac8f36d4351</sys_update_name>
+        <sys_updated_by>fwu</sys_updated_by>
+        <sys_updated_on>2023-02-27 17:06:10</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=25cdb49547552110191f7ac8f36d4351"/>
+</record_update>

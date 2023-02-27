@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>incident</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Incident Form Screen">75cdb49547552110191f7ac8f36d4389</embedded_screen>
+        <item_view/>
+        <name>Incident master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>fwu</sys_created_by>
+        <sys_created_on>2023-02-27 17:06:11</sys_created_on>
+        <sys_id>7dcdb49547552110191f7ac8f36d438c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident master_item</sys_name>
+        <sys_package display_value="DEMO-Global" source="df3db05547552110191f7ac8f36d43a3">df3db05547552110191f7ac8f36d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DEMO-Global">df3db05547552110191f7ac8f36d43a3</sys_scope>
+        <sys_update_name>sys_sg_master_item_7dcdb49547552110191f7ac8f36d438c</sys_update_name>
+        <sys_updated_by>fwu</sys_updated_by>
+        <sys_updated_on>2023-02-27 17:06:11</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Incident List Screen View Config">e1cdb49547552110191f7ac8f36d4352</view_config>
+    </sys_sg_master_item>
+</record_update>

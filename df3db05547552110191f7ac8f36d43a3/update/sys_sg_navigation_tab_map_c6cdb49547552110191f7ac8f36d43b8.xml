@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="DEMO-Global">25cdb49547552110191f7ac8f36d4350</navigation_tab>
+        <order>9200</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>fwu</sys_created_by>
+        <sys_created_on>2023-02-27 17:06:12</sys_created_on>
+        <sys_id>c6cdb49547552110191f7ac8f36d43b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DEMO-Global" source="df3db05547552110191f7ac8f36d43a3">df3db05547552110191f7ac8f36d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DEMO-Global">df3db05547552110191f7ac8f36d43a3</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_c6cdb49547552110191f7ac8f36d43b8</sys_update_name>
+        <sys_updated_by>fwu</sys_updated_by>
+        <sys_updated_on>2023-02-27 17:06:12</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>
